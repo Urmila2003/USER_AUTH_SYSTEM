@@ -26,3 +26,5 @@ Run the development server: python manage.py runserver
 # Customization
 
 This project can be customized by modifying the templates, forms, and views in the respective directories.
+
+
