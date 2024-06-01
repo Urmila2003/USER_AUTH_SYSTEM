@@ -8,6 +8,13 @@ This Django authentication system allows users to register for an account, log i
 •User login and logout
 •User dashboard
 
+# Technologies used
+
+•Django
+•HTML
+•CSS
+•Bootstrap CSS 
+
 # Installation
 
 Create a virtual environment: python3 -m venv env
