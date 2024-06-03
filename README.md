@@ -23,12 +23,7 @@ Install the requirements: pip install -r requirements.txt
 Run migrations: python manage.py migrate
 Run the development server: python manage.py runserver
 
-# Output
 
-
-![Screenshot_20240601_110534_Chrome 1](https://github.com/Urmila2003/USER_AUTH_SYSTEM/assets/109129599/aeeef3c6-d778-414d-b192-eacf40d55d1f)
-
-![Screenshot_20240601_110627_Chrome 1](https://github.com/Urmila2003/USER_AUTH_SYSTEM/assets/109129599/b7698391-7ca8-47f8-8ecb-e248c4a536de)
 
 
 
